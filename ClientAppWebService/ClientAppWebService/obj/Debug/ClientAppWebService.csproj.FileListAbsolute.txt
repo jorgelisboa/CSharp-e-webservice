@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\bin\Debug\ClientAppWebService.exe.config
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\bin\Debug\ClientAppWebService.exe
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\bin\Debug\ClientAppWebService.pdb
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.Form1.resources
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.Properties.Resources.resources
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.csproj.CopyComplete
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.exe
+C:\Users\User\source\repos\ClientAppWebService\ClientAppWebService\obj\Debug\ClientAppWebService.pdb
